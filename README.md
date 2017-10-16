@@ -3,3 +3,5 @@ This repository contains code to support the article "'Best-guess' MRAD provides
 
 For more information, you may wish to consult the article "Evidence for a limit to human lifespan" by Xiao Dong, Brandon Milholland and Jan Vijg in *Nature* (2016). That article can be found at https://dx.doi.org/10.1038/nature19793
 
+The code is licensed under the GNU Affero General Public License.
+
