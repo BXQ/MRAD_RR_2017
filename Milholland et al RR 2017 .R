@@ -2,7 +2,7 @@
 #Article can be found at https://dx.doi.org/10.1089/rej.2017.2008
 #For more context, see the Nature article "Evidence for a limit to human lifespan" by Xiao Dong, Brandon Milholland and Jan Vijg at https://dx.doi.org/10.1038/nature19793
 #Written by Brandon Milholland
-#Licensed under the GNU Aferro General Public License
+#Licensed under the GNU Affero General Public License
 best_guess_MRAD_no_1997=best_guess_MRAD[best_guess_MRAD$Year!=1997,]
 best_guess_MRAD_no_1997_or_77=best_guess_MRAD_no_1997[best_guess_MRAD_no_1997$Year!=1977,]
 best_guess_MRAD_no_1997_or_77_or_99=best_guess_MRAD_no_1997_or_77[best_guess_MRAD_no_1997_or_77$Year!=1999,]
